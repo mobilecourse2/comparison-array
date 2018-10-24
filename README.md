@@ -1,1 +1,1 @@
-# comparison-array
+# comparison of two arrays 
